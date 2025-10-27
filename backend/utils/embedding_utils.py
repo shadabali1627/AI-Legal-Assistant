@@ -36,7 +36,7 @@ def get_embedder(provider: str):
     if provider == EmbeddingBackend.GOOGLE:
         # Google Gemini embeddings via google-generativeai
         import google.generativeai as genai
-        from backend.config import settings
+        from config import settings
 
         if not settings.GEMINI_API_KEY:
             raise RuntimeError("GEMINI_API_KEY is not set. Add it to your environment or .env file.")
