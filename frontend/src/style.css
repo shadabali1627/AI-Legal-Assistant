@@ -1,0 +1,231 @@
+/* ====== Global Styles ====== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  background-color: #f6f8fa;
+  color: #1a1a1a;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ====== Header ====== */
+header {
+  background: #1e293b;
+  color: #f1f5f9;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 3px solid #334155;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.brand .logo {
+  width: 48px;
+  height: 48px;
+}
+
+.brand h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.brand .tagline {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+}
+
+/* ====== Main Layout ====== */
+main {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1rem;
+  padding: 1rem 2rem;
+}
+
+@media (max-width: 900px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ====== Chat Section ====== */
+.chat {
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  height: 80vh;
+}
+
+.chat-window {
+  flex: 1;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.message {
+  margin: 0.5rem 0;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  max-width: 80%;
+  line-height: 1.4;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.message.user {
+  background: #3b82f6;
+  color: white;
+  align-self: flex-end;
+  margin-left: auto;
+}
+
+.message.bot {
+  background: #e2e8f0;
+  color: #1e293b;
+  align-self: flex-start;
+  margin-right: auto;
+}
+
+.message.error {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+/* ====== Chat Input Form ====== */
+.chat-form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.chat-form input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.chat-form input:focus {
+  border-color: #3b82f6;
+}
+
+.chat-form button {
+  background: #3b82f6;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.chat-form button:hover {
+  background: #2563eb;
+}
+
+/* ====== Status Pills ====== */
+.pill-row {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.mode-pill,
+.status-pill {
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  background: #e2e8f0;
+  color: #334155;
+}
+
+.status-pill {
+  background: #dbeafe;
+  color: #1e3a8a;
+}
+
+/* ====== Sources Section ====== */
+.sources {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  overflow-y: auto;
+  max-height: 80vh;
+}
+
+.sources h2 {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  color: #1e293b;
+}
+
+.source-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
+  background: #f8fafc;
+}
+
+.source-card:hover {
+  background: #f1f5f9;
+}
+
+.source-title {
+  font-weight: 600;
+  color: #111827;
+}
+
+.source-meta {
+  color: #475569;
+  font-size: 0.9rem;
+  margin-top: 2px;
+}
+
+.footer-links {
+  font-size: 0.85rem;
+  margin-top: 1rem;
+  color: #334155;
+}
+
+.footer-links a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+/* ====== Footer ====== */
+footer {
+  background: #1e293b;
+  color: #cbd5e1;
+  text-align: center;
+  padding: 0.75rem;
+  font-size: 0.9rem;
+  border-top: 3px solid #334155;
+}

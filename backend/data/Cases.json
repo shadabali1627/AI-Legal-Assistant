@@ -1,0 +1,1203 @@
+[
+  {
+    "id": 1,
+    "case_name": "State v. Dosso",
+    "year": 1958,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1958 SC 533",
+    "area_of_law": ["constitutional", "doctrine of necessity"],
+    "summary": "Validated the 1958 martial law under revolutionary legality; later overruled.",
+    "bench": ["Chief Justice Muhammad Munir", "Justice Cornelius", "Justice Shahabuddin", "Justice Kaikaus"]
+  },
+  {
+    "id": 2,
+    "case_name": "Miss Asma Jilani v. Government of Punjab",
+    "year": 1972,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1972 SC 139",
+    "area_of_law": ["constitutional", "fundamental rights"],
+    "summary": "Overruled Dosso; declared Yahya Khan a usurper and restored constitutional supremacy.",
+    "bench": ["Chief Justice Hamoodur Rahman", "Justice Yaqub Ali Khan", "Justice Cornelius"]
+  },
+  {
+    "id": 3,
+    "case_name": "Moulvi Tameez-ud-Din Khan v. Federation of Pakistan",
+    "year": 1955,
+    "court": "Federal Court (pre-1956)",
+    "citation": "PLD 1955 FC 240",
+    "area_of_law": ["constitutional", "separation of powers"],
+    "summary": "Challenged Governor-General’s dissolution; foundational pre-constitution case.",
+    "bench": ["Chief Justice Muhammad Munir", "Justice Cornelius", "Justice Shahabuddin"]
+  },
+  {
+    "id": 4,
+    "case_name": "Begum Nusrat Bhutto v. Chief of the Army Staff",
+    "year": 1977,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1977 SC 657",
+    "area_of_law": ["constitutional", "emergency powers"],
+    "summary": "Upheld detention of political leaders post-coup while invoking state necessity.",
+    "bench": ["Chief Justice Anwarul Haq"]
+  },
+  {
+    "id": 5,
+    "case_name": "Benazir Bhutto v. Federation of Pakistan",
+    "year": 1988,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1988 SC 416",
+    "area_of_law": ["fundamental rights", "elections"],
+    "summary": "Strengthened freedom of association and fair electoral process standards.",
+    "bench": []
+  },
+  {
+    "id": 6,
+    "case_name": "Federation of Pakistan v. Haji Saifullah Khan",
+    "year": 1989,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1989 SC 166",
+    "area_of_law": ["constitutional", "presidential powers"],
+    "summary": "Struck down dissolution of National Assembly under Article 58(2)(b) in that instance.",
+    "bench": []
+  },
+  {
+    "id": 7,
+    "case_name": "Al-Jehad Trust v. Federation (Judges’ Case I)",
+    "year": 1996,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1996 SC 324",
+    "area_of_law": ["judicial independence"],
+    "summary": "Laid down seniority and consultation principles for judicial appointments.",
+    "bench": ["Chief Justice Sajjad Ali Shah"]
+  },
+  {
+    "id": 8,
+    "case_name": "Al-Jehad Trust (Judges’ Case II)",
+    "year": 1997,
+    "court": "Supreme Court of Pakistan",
+    "citation": "1997 SCMR 1368",
+    "area_of_law": ["judicial independence"],
+    "summary": "Clarified primacy of Chief Justice’s opinion in appointments/transfers.",
+    "bench": ["Chief Justice Sajjad Ali Shah"]
+  },
+  {
+    "id": 9,
+    "case_name": "Shehla Zia v. WAPDA",
+    "year": 1994,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1994 SC 693",
+    "area_of_law": ["environmental", "right to life"],
+    "summary": "Recognized environmental protection as part of the constitutional right to life.",
+    "bench": ["Justice Saleem Akhtar", "Justice Shafi-ur-Rehman"]
+  },
+  {
+    "id": 10,
+    "case_name": "Hakim Khan v. Government of Pakistan",
+    "year": 1992,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1992 SC 595",
+    "area_of_law": ["constitutional"],
+    "summary": "Reaffirmed Constitution’s supremacy over Islamic injunctions in constitutional questions.",
+    "bench": []
+  },
+  {
+    "id": 11,
+    "case_name": "Sh. Liaqat Hussain v. Federation of Pakistan",
+    "year": 1999,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1999 SC 504",
+    "area_of_law": ["constitutional", "military courts"],
+    "summary": "Invalidated establishment of military courts for civilians by executive order.",
+    "bench": []
+  },
+  {
+    "id": 12,
+    "case_name": "Syed Zafar Ali Shah v. General Pervez Musharraf",
+    "year": 2000,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2000 SC 869",
+    "area_of_law": ["constitutional", "doctrine of necessity"],
+    "summary": "Conditionally validated the 1999 coup; allowed limited constitutional amendments.",
+    "bench": ["Chief Justice Irshad Hasan Khan"]
+  },
+  {
+    "id": 13,
+    "case_name": "Mehram Ali v. Federation of Pakistan",
+    "year": 1998,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1998 SC 1445",
+    "area_of_law": ["anti-terrorism", "fair trial"],
+    "summary": "Upheld Anti-Terrorism Act courts but read in safeguards for fair trial.",
+    "bench": []
+  },
+  {
+    "id": 14,
+    "case_name": "Muhammad Nawaz Sharif v. President of Pakistan",
+    "year": 1993,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1993 SC 473",
+    "area_of_law": ["constitutional", "58(2)(b)"],
+    "summary": "Restored dissolved National Assembly; limited President’s dissolution power in practice.",
+    "bench": ["Chief Justice Nasim Hassan Shah"]
+  },
+  {
+    "id": 15,
+    "case_name": "Qazi Wali Muhammad v. The State (Safia Bibi context)",
+    "year": 1985,
+    "court": "Federal Shariat Court",
+    "citation": null,
+    "area_of_law": ["criminal", "Hudood"],
+    "summary": "Highlighted evidentiary standards and protections for rape victims under Hudood laws.",
+    "bench": []
+  },
+  {
+    "id": 16,
+    "case_name": "Sardar Farooq Ahmad Khan Leghari v. Federation",
+    "year": 1998,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["separation of powers"],
+    "summary": "Clarified limits of executive authority following constitutional amendments.",
+    "bench": []
+  },
+  {
+    "id": 17,
+    "case_name": "Hussain Bakhsh v. Settlement Commissioner",
+    "year": 1970,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1970 SC 1",
+    "area_of_law": ["administrative law"],
+    "summary": "Reinforced standards for reasoned administrative decisions and judicial review.",
+    "bench": []
+  },
+  {
+    "id": 18,
+    "case_name": "Federation v. Malik Ghulam Mustafa Khar",
+    "year": 1989,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["fundamental rights", "due process"],
+    "summary": "Asserted due process and fair trial guarantees in preventive detention.",
+    "bench": []
+  },
+  {
+    "id": 19,
+    "case_name": "Messrs Elahi Cotton Mills Ltd. v. Federation of Pakistan",
+    "year": 1997,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1997 SC 582",
+    "area_of_law": ["tax", "fiscal legislation"],
+    "summary": "Upheld broad fiscal powers while articulating proportionality in taxation.",
+    "bench": []
+  },
+  {
+    "id": 20,
+    "case_name": "Khan Asfandyar Wali v. Federation of Pakistan",
+    "year": 2001,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2001 SC 607",
+    "area_of_law": ["accountability", "NAB"],
+    "summary": "Sustained NAB framework with significant safeguards and interpretive limits.",
+    "bench": ["Chief Justice Irshad Hasan Khan"]
+  },
+  {
+    "id": 21,
+    "case_name": "Sindh High Court Bar Association v. Federation (PCO Judges)",
+    "year": 2009,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2009 SC 879",
+    "area_of_law": ["judicial independence"],
+    "summary": "Invalidated Nov. 3, 2007 PCO; restored pre-emergency judiciary.",
+    "bench": ["Chief Justice Iftikhar Muhammad Chaudhry"]
+  },
+  {
+    "id": 22,
+    "case_name": "Watan Party v. Federation (Pakistan Steel Mills)",
+    "year": 2006,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2006 SC 697",
+    "area_of_law": ["privatization", "public trust doctrine"],
+    "summary": "Blocked privatization, stressing transparency and public interest.",
+    "bench": ["Chief Justice Iftikhar Muhammad Chaudhry"]
+  },
+  {
+    "id": 23,
+    "case_name": "Chief Justice Iftikhar Muhammad Chaudhry v. President of Pakistan",
+    "year": 2007,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2010 SC 61",
+    "area_of_law": ["judicial independence", "due process"],
+    "summary": "Suspension reference quashed; reinforced safeguards for removing judges.",
+    "bench": ["Justice Khalil-ur-Rehman Ramday", "Justice Jawwad S. Khawaja"]
+  },
+  {
+    "id": 24,
+    "case_name": "Dr. Mubashir Hassan v. Federation (NRO case)",
+    "year": 2009,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2010 SC 265",
+    "area_of_law": ["corruption", "constitutional"],
+    "summary": "Struck down NRO; reopened corruption cases; emphasized equality before law.",
+    "bench": ["Chief Justice Iftikhar Muhammad Chaudhry"]
+  },
+  {
+    "id": 25,
+    "case_name": "Workers’ Party Pakistan v. Federation",
+    "year": 2012,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2012 SC 681",
+    "area_of_law": ["elections", "campaign finance"],
+    "summary": "Curbed excessive campaign spending; mandated level playing field.",
+    "bench": []
+  },
+  {
+    "id": 26,
+    "case_name": "Air Marshal (R) Asghar Khan v. General Mirza Aslam Beg",
+    "year": 2012,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2013 SC 1",
+    "area_of_law": ["elections", "civil-military"],
+    "summary": "Held distribution of funds to politicians unlawful; demanded accountability.",
+    "bench": ["Chief Justice Iftikhar Muhammad Chaudhry"]
+  },
+  {
+    "id": 27,
+    "case_name": "Mst. Sughran Bibi v. The State",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2018 SC 595",
+    "area_of_law": ["criminal procedure", "FIR practice"],
+    "summary": "Clarified that multiple statements may be recorded; one FIR per occurrence refined.",
+    "bench": ["Justice Asif Saeed Khan Khosa"]
+  },
+  {
+    "id": 28,
+    "case_name": "Asia Bibi v. The State",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2019 SC 64",
+    "area_of_law": ["criminal", "blasphemy", "fair trial"],
+    "summary": "Acquittal emphasized high evidentiary standards and benefit of doubt.",
+    "bench": ["Chief Justice Mian Saqib Nisar", "Justice Asif Saeed Khan Khosa", "Justice Mazhar Alam Miankhel"]
+  },
+  {
+    "id": 29,
+    "case_name": "Islamic Republic of Pakistan v. Mumtaz Qadri",
+    "year": 2015,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2016 SC 17",
+    "area_of_law": ["criminal", "terrorism"],
+    "summary": "Upheld conviction; narrowed scope of provocation defenses.",
+    "bench": ["Justice Asif Saeed Khan Khosa", "Justice Dost Muhammad Khan", "Justice Mazhar Alam Miankhel"]
+  },
+  {
+    "id": 30,
+    "case_name": "Suo Motu: Pakistan Railways Case",
+    "year": 2012,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["public interest", "governance"],
+    "summary": "Directed reforms and accountability for losses/mismanagement in a key SOE.",
+    "bench": []
+  },
+  {
+    "id": 31,
+    "case_name": "Nadeem Ahmed v. Federation (NRO implementation)",
+    "year": 2010,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["implementation", "rule of law"],
+    "summary": "Ensured enforcement of the NRO judgment and mutual legal assistance steps.",
+    "bench": ["Chief Justice Iftikhar Muhammad Chaudhry"]
+  },
+  {
+    "id": 32,
+    "case_name": "District Bar Association Rawalpindi v. Federation (21st Amendment)",
+    "year": 2015,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2015 SC 401",
+    "area_of_law": ["constitutional amendments", "military courts"],
+    "summary": "Upheld 21st Amendment creating military courts, with strict temporal limits.",
+    "bench": ["Chief Justice Nasir-ul-Mulk"]
+  },
+  {
+    "id": 33,
+    "case_name": "Suo Motu: Privatization Commission (OGDCL/energy)",
+    "year": 2014,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["privatization", "public trust"],
+    "summary": "Reinforced transparency requirements in strategic asset transactions.",
+    "bench": []
+  },
+  {
+    "id": 34,
+    "case_name": "Mazdoor Kisan Party v. Federation",
+    "year": 1974,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1974 SC 87",
+    "area_of_law": ["political rights"],
+    "summary": "Addressed restrictions on political parties; cemented associational freedoms.",
+    "bench": []
+  },
+  {
+    "id": 35,
+    "case_name": "Shirin Munir v. Government of Punjab",
+    "year": 1990,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1990 SC 295",
+    "area_of_law": ["education", "fundamental rights"],
+    "summary": "Protected students’ rights and due process in academic expulsions.",
+    "bench": []
+  },
+  {
+    "id": 36,
+    "case_name": "Mehreen Zaibun Nisa v. Land Commissioner",
+    "year": 1975,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1975 SC 397",
+    "area_of_law": ["property", "agricultural reforms"],
+    "summary": "Balanced land reform measures with constitutional protections.",
+    "bench": []
+  },
+  {
+    "id": 37,
+    "case_name": "Usif Patel v. Crown",
+    "year": 1955,
+    "court": "Federal Court (pre-1956)",
+    "citation": "PLD 1955 FC 387",
+    "area_of_law": ["criminal procedure"],
+    "summary": "Set early standards for appellate review in criminal matters.",
+    "bench": []
+  },
+  {
+    "id": 38,
+    "case_name": "Abdul Wali Khan v. Federation",
+    "year": 1975,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["fundamental rights", "detention"],
+    "summary": "Set limits on preventive detention of political opponents.",
+    "bench": []
+  },
+    {
+    "id": 39,
+    "case_name": "Sharaf Faridi v. Federation",
+    "year": 1989,
+    "court": "Sindh High Court (Full Bench)",
+    "citation": "PLD 1989 Karachi 404",
+    "area_of_law": ["judicial independence"],
+    "summary": "Advanced autonomy and rule-based governance of the legal profession.",
+    "bench": ["Justice Ajmal Mian", "Justice Saeed-uz-Zaman Siddiqui", "Justice Wajihuddin Ahmed"]
+  },
+  {
+    "id": 40,
+    "case_name": "Sindh High Court Bar Association v. Federation (18th Amendment)",
+    "year": 2010,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2011 SC 649",
+    "area_of_law": ["constitutional amendments", "judicial appointments"],
+    "summary": "Read in safeguards to protect judicial independence under new mechanism.",
+    "bench": ["Chief Justice Iftikhar Muhammad Chaudhry", "Justice Jawwad S. Khawaja", "Justice Tariq Parvez"]
+  },
+  {
+    "id": 41,
+    "case_name": "Pakistan Muslim League (N) v. Federation (Memogate)",
+    "year": 2011,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["national security", "separation of powers"],
+    "summary": "Ordered inquiry commission; delineated judicial oversight in security matters.",
+    "bench": ["Chief Justice Iftikhar Muhammad Chaudhry", "Justice Khilji Arif Hussain"]
+  },
+  {
+    "id": 42,
+    "case_name": "Constitution Petition re: Reko Diq (TCC) — Original lease dispute",
+    "year": 2013,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2013 SC 692",
+    "area_of_law": ["natural resources", "contracts", "public trust"],
+    "summary": "Invalidated earlier arrangements; emphasized transparency in mineral concessions.",
+    "bench": ["Chief Justice Iftikhar Muhammad Chaudhry", "Justice Gulzar Ahmed", "Justice Sheikh Azmat Saeed"]
+  },
+  {
+    "id": 43,
+    "case_name": "Reko Diq Settlement Validation Reference",
+    "year": 2023,
+    "court": "Supreme Court of Pakistan (Advisory)",
+    "citation": null,
+    "area_of_law": ["investment", "arbitration", "public interest"],
+    "summary": "Approved settlement framework to revive project and mitigate penalty exposure.",
+    "bench": ["Chief Justice Umar Ata Bandial", "Justice Ijaz-ul-Ahsan", "Justice Munib Akhtar"]
+  },
+  {
+    "id": 44,
+    "case_name": "Imran Ahmad Khan Niazi v. Mian Muhammad Nawaz Sharif (Panama Papers)",
+    "year": 2017,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2017 SC 692",
+    "area_of_law": ["elections", "asset declarations"],
+    "summary": "Disqualified the Prime Minister under Article 62(1)(f) for nondisclosure.",
+    "bench": ["Justice Asif Saeed Khan Khosa", "Justice Ejaz Afzal Khan", "Justice Gulzar Ahmed", "Justice Sheikh Azmat Saeed", "Justice Ijaz-ul-Ahsan"]
+  },
+  {
+    "id": 45,
+    "case_name": "Hanif Abbasi v. Imran Khan",
+    "year": 2017,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2018 SC 189",
+    "area_of_law": ["elections", "asset declarations"],
+    "summary": "Clarified standards for honesty and disclosure of assets for candidates.",
+    "bench": ["Chief Justice Mian Saqib Nisar", "Justice Umar Ata Bandial", "Justice Faisal Arab"]
+  },
+  {
+    "id": 46,
+    "case_name": "Khawaja Muhammad Asif v. Usman Dar",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["elections", "disqualification"],
+    "summary": "Interpreted employment/Iqama disclosures; restored candidate after disqualification.",
+    "bench": ["Justice Umar Ata Bandial", "Justice Faisal Arab", "Justice Sajjad Ali Shah"]
+  },
+  {
+    "id": 47,
+    "case_name": "Suo Motu: Faizabad Dharna Case",
+    "year": 2019,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2019 SC 318",
+    "area_of_law": ["assembly", "speech", "civil-military"],
+    "summary": "Set principles on protests, media freedom, and non-interference by security agencies.",
+    "bench": ["Justice Qazi Faez Isa", "Justice Mushir Alam"]
+  },
+  {
+    "id": 48,
+    "case_name": "Justice Qazi Faez Isa v. President of Pakistan (Reference Case)",
+    "year": 2021,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2021 SC 1",
+    "area_of_law": ["judicial independence", "accountability"],
+    "summary": "Quashed presidential reference; reinforced safeguards against mala fide actions.",
+    "bench": ["Justice Umar Ata Bandial", "Justice Maqbool Baqar", "Justice Mansoor Ali Shah", "Justice Yahya Afridi", "Justice Sajjad Ali Shah", "Justice Qazi Faez Isa (recused)"]
+  },
+  {
+    "id": 49,
+    "case_name": "Justice Qazi Faez Isa Review / Clarification Orders",
+    "year": 2021,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["judicial independence"],
+    "summary": "Set aside directions to tax authorities; protected due process for judges.",
+    "bench": ["Justice Umar Ata Bandial", "Justice Maqbool Baqar", "Justice Mansoor Ali Shah", "Justice Yahya Afridi"]
+  },
+  {
+    "id": 50,
+    "case_name": "Suo Motu: COVID-19 Management",
+    "year": 2020,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["public health", "federalism"],
+    "summary": "Outlined coordination and oversight standards during a national health emergency.",
+    "bench": ["Chief Justice Gulzar Ahmed", "Justice Ijaz-ul-Ahsan"]
+  },
+  {
+    "id": 51,
+    "case_name": "Zia-ur-Rehman v. The State",
+    "year": 1973,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1973 SC 49",
+    "area_of_law": ["criminal procedure", "jurisdiction"],
+    "summary": "Distinguished illegality from mere irregularity; clarified when procedural defects vitiate convictions.",
+    "bench": []
+  },
+  {
+    "id": 52,
+    "case_name": "Government of Balochistan v. Azizullah Memon",
+    "year": 1993,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1993 SC 341",
+    "area_of_law": ["criminal justice", "special courts"],
+    "summary": "Struck down Special Courts for Speedy Trials created through executive measures as unconstitutional.",
+    "bench": []
+  },
+  {
+    "id": 53,
+    "case_name": "Zaheeruddin v. The State",
+    "year": 1993,
+    "court": "Supreme Court of Pakistan",
+    "citation": "1993 SCMR 1718",
+    "area_of_law": ["fundamental rights", "religion"],
+    "summary": "Upheld criminal restrictions on Ahmadis using Islamic epithets; debated scope of religious freedom.",
+    "bench": []
+  },
+  {
+    "id": 54,
+    "case_name": "Mst. Khurshid Bibi v. Baboo Muhammad Amin",
+    "year": 1967,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1967 SC 97",
+    "area_of_law": ["family law", "women’s rights"],
+    "summary": "Recognized khula without husband’s consent upon proof of irretrievable breakdown, shaping Muslim family law.",
+    "bench": []
+  },
+  {
+    "id": 55,
+    "case_name": "Mst. Kaneez Fatima v. Wali Muhammad",
+    "year": 1993,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 1993 SC 901",
+    "area_of_law": ["family law", "inheritance"],
+    "summary": "Affirmed daughters’ inheritance rights and clarified rules for mutation and limitation in succession disputes.",
+    "bench": []
+  },
+  {
+    "id": 56,
+    "case_name": "Shariat Petition: Riba (Interest) Cases (Consolidated)",
+    "year": 1999,
+    "court": "Shariat Appellate Bench, Supreme Court of Pakistan",
+    "citation": "PLD 2000 SC 225",
+    "area_of_law": ["financial law", "Islamic jurisprudence"],
+    "summary": "Declared interest (riba) repugnant to Islam and directed transformation of financial system; later remanded in 2002 for reconsideration.",
+    "bench": []
+  },
+  {
+    "id": 57,
+    "case_name": "Pakistan Lawyers Forum v. Federation of Pakistan",
+    "year": 2005,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["constitutional", "treaty implementation"],
+    "summary": "Examined WTO/TRIPS commitments and separation of powers in implementing international agreements domestically.",
+    "bench": []
+  },
+  {
+    "id": 58,
+    "case_name": "Suo Motu: Pakistan International Airlines (PIA) Privatization/Management",
+    "year": 2007,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["public interest", "SOE governance"],
+    "summary": "Laid transparency and fiduciary standards for restructuring national carriers and other SOEs.",
+    "bench": []
+  },
+  {
+    "id": 59,
+    "case_name": "Suo Motu Case: Missing Persons (HRC No. 965/2007)",
+    "year": 2007,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["fundamental rights", "enforced disappearances"],
+    "summary": "Catalyzed habeas corpus jurisprudence against enforced disappearances and underscored accountability of agencies.",
+    "bench": []
+  },
+  {
+    "id": 60,
+    "case_name": "Javed Hashmi v. The State",
+    "year": 2004,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["criminal", "free expression"],
+    "summary": "Assessed sedition-related convictions; discussed fair trial and political speech considerations.",
+    "bench": []
+  },
+  {
+    "id": 61,
+    "case_name": "Suo Motu: Rental Power Projects (RPP) Case",
+    "year": 2012,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2012 SC 773",
+    "area_of_law": ["anti-corruption", "public contracts"],
+    "summary": "Held RPP contracts void ab initio for lack of transparency; ordered recovery and accountability measures.",
+    "bench": []
+  },
+  {
+    "id": 62,
+    "case_name": "Mustafa Impex, Karachi v. Government of Pakistan",
+    "year": 2016,
+    "court": "Supreme Court of Pakistan",
+    "citation": "PLD 2016 SC 808",
+    "area_of_law": ["public finance", "executive powers"],
+    "summary": "Held that fiscal/executive decisions vest in the Federal Cabinet, not lone ministers or secretaries.",
+    "bench": []
+  },
+  {
+    "id": 63,
+    "case_name": "Durrani Ceramics and Others v. Federation of Pakistan (GIDC)",
+    "year": 2016,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["tax", "natural gas"],
+    "summary": "Clarified constitutional competence to levy the Gas Infrastructure Development Cess and limits on delegated taxation.",
+    "bench": []
+  },
+  {
+    "id": 64,
+    "case_name": "Suo Motu: Burn Factories (Baldia & others) Industrial Safety",
+    "year": 2015,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["labour", "occupational safety"],
+    "summary": "Advanced employer liability and regulatory oversight standards after catastrophic factory fires.",
+    "bench": []
+  },
+  {
+    "id": 65,
+    "case_name": "Pakistan Broadcasters Association v. Pakistan Electronic Media Regulatory Authority (PEMRA)",
+    "year": 2016,
+    "court": "Sindh High Court",
+    "citation": null,
+    "area_of_law": ["media law", "administrative"],
+    "summary": "Read down content restrictions and arbitrary fines; emphasized due process in broadcast regulation.",
+    "bench": []
+  },
+  {
+    "id": 66,
+    "case_name": "Mst. Asia v. Federation (Protection of Women Act challenges)",
+    "year": 2010,
+    "court": "Federal Shariat Court",
+    "citation": null,
+    "area_of_law": ["criminal", "Hudood reforms"],
+    "summary": "Addressed constitutionality of Protection of Women (Criminal Laws Amendment) Act provisions vis-à-vis Hudood laws.",
+    "bench": []
+  },
+  {
+    "id": 67,
+    "case_name": "Ashgar Leghari v. Federation of Pakistan",
+    "year": 2015,
+    "court": "Lahore High Court",
+    "citation": "W.P. No. 25501/2015",
+    "area_of_law": ["environmental", "climate change"],
+    "summary": "Directed implementation of Pakistan’s climate framework; created Climate Change Commission for oversight.",
+    "bench": []
+  },
+  {
+    "id": 68,
+    "case_name": "Suo Motu: Smog and Air Quality in Punjab",
+    "year": 2017,
+    "court": "Lahore High Court",
+    "citation": null,
+    "area_of_law": ["environmental", "public health"],
+    "summary": "Mandated provincial action plans for smog; recognized clean air as part of the right to life.",
+    "bench": []
+  },
+  {
+    "id": 69,
+    "case_name": "Qamar Zaman v. Government of Pakistan (Phone Tapping)",
+    "year": 1997,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["privacy", "surveillance"],
+    "summary": "Held that executive phone tapping without legal authorization violates fundamental rights; required statutory safeguards.",
+    "bench": []
+  },
+  {
+    "id": 70,
+    "case_name": "Pakistan Defence Officers Housing Authority v. Mrs. Saeeda",
+    "year": 2015,
+    "court": "Supreme Court of Pakistan",
+    "citation": "2015 SCMR 1708",
+    "area_of_law": ["property", "consumer protection"],
+    "summary": "Strengthened rights of allottees against housing authorities for delays and arbitrary cancellations.",
+    "bench": []
+  },
+  {
+    "id": 71,
+    "case_name": "Darshan Masih (Bonded Labour) v. The State",
+    "year": 1990,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["fundamental rights", "labour", "habeas corpus"],
+    "summary": "Converted a letter into a habeas corpus petition to free kiln workers; catalyzed bonded-labour abolition and state duty to protect vulnerable workers.",
+    "bench": []
+  },
+  {
+    "id": 72,
+    "case_name": "State v. Zulfiqar Ali Bhutto",
+    "year": 1979,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["criminal", "fair trial"],
+    "summary": "Upheld conviction and death sentence of a former Prime Minister; remains a touchstone for debates on fair trial and judicial independence.",
+    "bench": []
+  },
+  {
+    "id": 73,
+    "case_name": "Salman Akram Raja v. Government of Punjab",
+    "year": 2013,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["criminal", "gender justice"],
+    "summary": "Issued binding guidelines for rape investigations, including survivor-sensitive procedures and medico-legal reforms.",
+    "bench": []
+  },
+  {
+    "id": 74,
+    "case_name": "Anita Turab v. Federation of Pakistan",
+    "year": 2013,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["administrative law", "civil service"],
+    "summary": "Protected tenure and merit-based postings of civil servants; curtailed arbitrary transfers and political interference.",
+    "bench": []
+  },
+  {
+    "id": 75,
+    "case_name": "Suo Motu: Tariq Aziz-ud-Din Appointments Case",
+    "year": 2010,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["administrative law", "good governance"],
+    "summary": "Annulled irregular appointments/promotions; restated merit, transparency, and due process in public service.",
+    "bench": []
+  },
+  {
+    "id": 76,
+    "case_name": "In Re: Contempt Proceedings against Prime Minister Yousaf Raza Gilani",
+    "year": 2012,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["contempt", "separation of powers"],
+    "summary": "Conviction for contempt led to disqualification of a sitting Prime Minister; clarified scope of judicial commands.",
+    "bench": []
+  },
+  {
+    "id": 77,
+    "case_name": "Humaira Mehmood v. The State",
+    "year": 1999,
+    "court": "Lahore High Court",
+    "citation": null,
+    "area_of_law": ["family law", "fundamental rights"],
+    "summary": "Affirmed a competent adult woman’s right to contract marriage of choice without wali’s consent; protection against custodial detention by family.",
+    "bench": []
+  },
+  {
+    "id": 78,
+    "case_name": "Saima Waheed Khawar v. The State",
+    "year": 1996,
+    "court": "Lahore High Court (Full Bench)",
+    "citation": null,
+    "area_of_law": ["family law", "women’s rights"],
+    "summary": "Held that adult Muslim women may marry of free will; directed police to protect couples from harassment.",
+    "bench": []
+  },
+  {
+    "id": 79,
+    "case_name": "Mst. Mukhtar Mai v. Abdul Khaliq & Others",
+    "year": 2011,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["criminal", "sexual violence"],
+    "summary": "Addressed gang-rape prosecution standards; sparked reforms discourse on witness protection and investigation quality.",
+    "bench": []
+  },
+  {
+    "id": 80,
+    "case_name": "Muhammad Akram v. The State",
+    "year": 2001,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["criminal", "evidence"],
+    "summary": "Reinforced the ‘benefit of doubt’ standard: a single reasonable doubt entitles the accused to acquittal.",
+    "bench": []
+  },
+  {
+    "id": 81,
+    "case_name": "Human Rights Case: Sindh Water & Sanitation Commission",
+    "year": 2017,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["environmental", "public health"],
+    "summary": "Constituted and supervised a commission to remedy unsafe drinking water and poor sanitation across Sindh.",
+    "bench": []
+  },
+  {
+    "id": 82,
+    "case_name": "Bahria Town Karachi Implementation Proceedings",
+    "year": 2019,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["property", "urban planning", "public trust"],
+    "summary": "Approved a structured settlement with strict compliance to regulate land use and recover public dues.",
+    "bench": []
+  },
+  {
+    "id": 83,
+    "case_name": "Nasla Tower Demolition Case",
+    "year": 2021,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["property", "urban regulation"],
+    "summary": "Ordered demolition of an illegally constructed high-rise and compensation to affected allottees; emphasized rule-based urban planning.",
+    "bench": []
+  },
+  {
+    "id": 84,
+    "case_name": "Special Court (High Treason) v. Pervez Musharraf",
+    "year": 2019,
+    "court": "Special Court under High Treason (Punishment) Act",
+    "citation": null,
+    "area_of_law": ["constitutional", "treason"],
+    "summary": "Convicted a former military ruler under Article 6 for subverting the Constitution; triggered separation-of-powers debates.",
+    "bench": []
+  },
+  {
+    "id": 85,
+    "case_name": "Pervez Musharraf v. Federation (Special Court Formation Challenge)",
+    "year": 2020,
+    "court": "Lahore High Court",
+    "citation": null,
+    "area_of_law": ["constitutional", "criminal procedure"],
+    "summary": "Held the constitution of the Special Court and certain procedural aspects to be unlawful; affected execution of treason verdict.",
+    "bench": []
+  },
+  {
+    "id": 86,
+    "case_name": "Imrana Tiwana v. Province of Punjab (Orange Line Metro Train)",
+    "year": 2017,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["environmental", "heritage", "infrastructure"],
+    "summary": "Allowed a major transit project with stringent safeguards near heritage sites; balanced development with conservation duties.",
+    "bench": []
+  },
+  {
+    "id": 87,
+    "case_name": "Shahida Zahir Abbasi v. Pakistan",
+    "year": 1996,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["constitutional tort", "fundamental rights"],
+    "summary": "Recognized compensation for unlawful detention and custodial excesses; advanced constitutional remedies against the state.",
+    "bench": []
+  },
+  {
+    "id": 88,
+    "case_name": "Pakistan Sugar Mills Association v. Federation (Price Fixation)",
+    "year": 2009,
+    "court": "Lahore High Court",
+    "citation": null,
+    "area_of_law": ["competition", "price control"],
+    "summary": "Read down arbitrary price fixation; required evidence-based regulation and protection of consumers within lawful bounds.",
+    "bench": []
+  },
+  {
+    "id": 89,
+    "case_name": "Model Town Inquiry Report Case",
+    "year": 2017,
+    "court": "Lahore High Court",
+    "citation": null,
+    "area_of_law": ["right to information", "accountability"],
+    "summary": "Directed public disclosure of a judicial inquiry report into the Model Town incident; strengthened transparency norms.",
+    "bench": []
+  },
+  {
+    "id": 90,
+    "case_name": "Parveen Rehman Murder: Reinvestigation Orders",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["criminal justice", "rule of law"],
+    "summary": "Ordered independent reinvestigation into a high-profile urban planning activist’s murder; stressed witness protection and impartiality.",
+    "bench": []
+  },
+  {
+    "id": 91,
+    "case_name": "Baldia Factory Fire (Ali Enterprises) — Accountability Proceedings",
+    "year": 2020,
+    "court": "Anti-Terrorism Court, Karachi (follow-up oversight by SHC/SC)",
+    "citation": null,
+    "area_of_law": ["labour", "criminal", "industrial safety"],
+    "summary": "Convictions for arson/terrorism in a mass-casualty factory fire; courts underscored employer and state oversight duties.",
+    "bench": []
+  },
+  {
+    "id": 92,
+    "case_name": "Priyantha Kumara Lynching Case",
+    "year": 2022,
+    "court": "Anti-Terrorism Court, Sialkot (supervisory jurisdiction of LHC)",
+    "citation": null,
+    "area_of_law": ["criminal", "terrorism", "mob violence"],
+    "summary": "Swift trial and multiple convictions for a mob lynching; reinforced zero tolerance for vigilantism.",
+    "bench": []
+  },
+  {
+    "id": 93,
+    "case_name": "Bani Gala Regularization/Encroachments Case",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["environmental", "municipal"],
+    "summary": "Directed a framework for regularization and environmental compliance against widespread encroachments in Islamabad’s zone.",
+    "bench": []
+  },
+  {
+    "id": 94,
+    "case_name": "Monal Restaurant / Margalla Hills National Park Case",
+    "year": 2022,
+    "court": "Islamabad High Court",
+    "citation": null,
+    "area_of_law": ["environmental", "public trust"],
+    "summary": "Protected the national park from commercial intrusion; invalidated leases inconsistent with conservation mandates.",
+    "bench": []
+  },
+  {
+    "id": 95,
+    "case_name": "Suo Motu: Oil Pricing & OGRA Transparency",
+    "year": 2020,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["public finance", "regulatory law"],
+    "summary": "Examined petroleum pricing, supply shortages, and regulatory lapses; mandated transparent, cabinet-led decision-making.",
+    "bench": []
+  },
+  {
+    "id": 96,
+    "case_name": "Abdur Rehman Malik v. Federation (ECL Procedures)",
+    "year": 2013,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["freedom of movement", "administrative law"],
+    "summary": "Read due process into the Exit Control List regimes and required notified reasons, timelines, and review.",
+    "bench": []
+  },
+  {
+    "id": 97,
+    "case_name": "Pakistan Broadcasters v. PEMRA (Licensing & Sanctions)",
+    "year": 2019,
+    "court": "Islamabad High Court",
+    "citation": null,
+    "area_of_law": ["media law", "administrative"],
+    "summary": "Curbed arbitrary suspensions/fines; insisted on reasoned orders, proportionality, and fair hearing.",
+    "bench": []
+  },
+  {
+    "id": 98,
+    "case_name": "Pakistan Tobacco Company Ltd. v. Federation (Health Warnings)",
+    "year": 2016,
+    "court": "Islamabad High Court",
+    "citation": null,
+    "area_of_law": ["public health", "commercial speech"],
+    "summary": "Balanced mandatory graphic health warnings with statutory authority; clarified limits of delegated legislation.",
+    "bench": []
+  },
+  {
+    "id": 99,
+    "case_name": "Suo Motu: K-Electric & Power Sector Load-Shedding",
+    "year": 2020,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["utilities", "consumer protection"],
+    "summary": "Probed outages, tariffs, and distribution obligations; directed corrective measures and regulatory accountability.",
+    "bench": []
+  },
+  {
+    "id": 100,
+    "case_name": "Suo Motu: Pakistan Railways Corruption & Safety (Follow-up)",
+    "year": 2020,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["public interest", "SOE governance"],
+    "summary": "Expanded earlier oversight with directions on safety audits, revenue leakages, and revival plans for the national carrier.",
+    "bench": []
+  },
+  {
+    "id": 101,
+    "case_name": "Khadija Siddiqi Stabbing Case",
+    "year": 2019,
+    "court": "Supreme Court of Pakistan (leave granted; conviction restored)",
+    "citation": null,
+    "area_of_law": ["criminal", "victims' rights"],
+    "summary": "Restored conviction in a high-profile assault; emphasized survivor-centric adjudication and evidentiary appreciation.",
+    "bench": []
+  },
+  {
+    "id": 102,
+    "case_name": "Al-Rahim Traders v. Federation (Benami Transactions)",
+    "year": 2019,
+    "court": "Sindh High Court",
+    "citation": null,
+    "area_of_law": ["tax", "property"],
+    "summary": "Upheld regulatory powers against benami holdings with safeguards for due process and evidentiary standards.",
+    "bench": []
+  },
+  {
+    "id": 103,
+    "case_name": "Pakistan Medical & Dental Council Reconstitution Cases",
+    "year": 2019,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["health regulation", "administrative law"],
+    "summary": "Settled competing statutory frameworks and transitional management of the medical regulator.",
+    "bench": []
+  },
+  {
+    "id": 104,
+    "case_name": "Pakistan Kidney & Liver Institute (PKLI) Management Case",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["health governance", "public finance"],
+    "summary": "Reviewed governance and procurement of a flagship hospital; directed compliance with public sector rules.",
+    "bench": []
+  },
+  {
+    "id": 105,
+    "case_name": "Suo Motu: Safe Blood & Hospital Waste Disposal",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["public health", "environmental"],
+    "summary": "Ordered standards for blood banks and clinical waste; reinforced provincial duties post-18th Amendment.",
+    "bench": []
+  },
+  {
+    "id": 106,
+    "case_name": "Pakistan Airlines Pilots Association v. PIA",
+    "year": 2020,
+    "court": "Sindh High Court",
+    "citation": null,
+    "area_of_law": ["labour", "aviation safety"],
+    "summary": "Litigation around licensing, safety, and employment actions; balanced safety imperatives with labour protections.",
+    "bench": []
+  },
+  {
+    "id": 107,
+    "case_name": "Quetta Hazara Targeted Killings: Protection Orders",
+    "year": 2013,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["fundamental rights", "law and order"],
+    "summary": "Directed coordinated security measures to protect minorities; underscored state’s positive obligations under the right to life.",
+    "bench": []
+  },
+  {
+    "id": 108,
+    "case_name": "Taj Muhammad v. State (Honor Killings/Jirga)",
+    "year": 2004,
+    "court": "Sindh High Court",
+    "citation": null,
+    "area_of_law": ["criminal", "customary practices"],
+    "summary": "Outlawed jirga-sanctioned practices facilitating honor crimes; stressed prosecution of perpetrators and facilitators.",
+    "bench": []
+  },
+  {
+    "id": 109,
+    "case_name": "Pakistan Flour Mills Association v. Government (Price Controls)",
+    "year": 2020,
+    "court": "Islamabad High Court",
+    "citation": null,
+    "area_of_law": ["competition", "food security"],
+    "summary": "Reviewed statutory basis of wheat/flour controls; sought calibrated regulation respecting market dynamics and consumers’ rights.",
+    "bench": []
+  },
+  {
+    "id": 110,
+    "case_name": "Pakistan Petroleum Pricing: Cabinet Approval Mandate",
+    "year": 2016,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["public finance", "executive powers"],
+    "summary": "Applied cabinet-primacy doctrine to fiscal/regulatory decisions, aligning with constitutional allocation of executive power.",
+    "bench": []
+  },
+  {
+    "id": 111,
+    "case_name": "Kemu Hospital Trust v. Provincial Government",
+    "year": 2019,
+    "court": "Lahore High Court",
+    "citation": null,
+    "area_of_law": ["health", "trusts", "administrative"],
+    "summary": "Clarified governance of autonomous health institutions and limits on ad hoc governmental takeovers.",
+    "bench": []
+  },
+  {
+    "id": 112,
+    "case_name": "Jamshoro Power Company Procurement Case",
+    "year": 2018,
+    "court": "Sindh High Court",
+    "citation": null,
+    "area_of_law": ["procurement", "public contracts"],
+    "summary": "Enforced PPRA compliance and transparent tender evaluation in a large power project.",
+    "bench": []
+  },
+  {
+    "id": 113,
+    "case_name": "Pakistan Railways Freight Privilege Litigation",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["SOE governance", "competition"],
+    "summary": "Examined preferential contracts and leakages; directed rationalization and accountability in freight operations.",
+    "bench": []
+  },
+  {
+    "id": 114,
+    "case_name": "Air Marshal (R) Asghar Khan Case — Implementation (FIA Directions)",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["elections", "civil-military"],
+    "summary": "Subsequent orders for investigation and prosecution arising from illegal political funding findings.",
+    "bench": []
+  },
+  {
+    "id": 115,
+    "case_name": "Suo Motu: Safe Drinking Water/Arsenic in Punjab",
+    "year": 2017,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["public health", "environmental"],
+    "summary": "Mandated action plans, budgeting, and technical oversight for potable water provision.",
+    "bench": []
+  },
+  {
+    "id": 116,
+    "case_name": "Khyber Pakhtunkhwa Local Government Elections Litigation",
+    "year": 2015,
+    "court": "Peshawar High Court",
+    "citation": null,
+    "area_of_law": ["elections", "local governance"],
+    "summary": "Directed remedies for irregularities; emphasized independence of the polling process and dispute resolution.",
+    "bench": []
+  },
+  {
+    "id": 117,
+    "case_name": "Pakistan Telecommunication Authority v. Internet Service Providers",
+    "year": 2020,
+    "court": "Islamabad High Court",
+    "citation": null,
+    "area_of_law": ["IT law", "free expression"],
+    "summary": "Reviewed content takedown and blocking under PECA; required due process, notice, and reasoned decisions.",
+    "bench": []
+  },
+  {
+    "id": 118,
+    "case_name": "Missing Persons Commission/Enforced Disappearances — Follow-up Orders",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["fundamental rights", "habeas corpus"],
+    "summary": "Strengthened tracing, reporting, and accountability mechanisms; periodic compliance monitoring ordered.",
+    "bench": []
+  },
+  {
+    "id": 119,
+    "case_name": "Suo Motu: Anti-Smoking & Public Spaces",
+    "year": 2018,
+    "court": "Supreme Court of Pakistan",
+    "citation": null,
+    "area_of_law": ["public health", "administrative"],
+    "summary": "Directed strict enforcement of tobacco control laws in public places and around educational institutions.",
+    "bench": []
+  },
+  {
+    "id": 120,
+    "case_name": "Pakistan Steel Re-Rolling Mills v. Federation (Energy Pricing)",
+    "year": 2014,
+    "court": "Sindh High Court",
+    "citation": null,
+    "area_of_law": ["energy", "tax/levies"],
+    "summary": "Examined legality of surcharges and differential tariffs; required statutory basis and non-discrimination in energy pricing.",
+    "bench": []
+  }
+
+]

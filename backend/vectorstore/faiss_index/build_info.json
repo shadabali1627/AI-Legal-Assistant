@@ -1,0 +1,6 @@
+{
+  "embedding_backend": "google",
+  "dimension": 768,
+  "dataset_modified": 1760718773.9156234,
+  "count": 120
+}

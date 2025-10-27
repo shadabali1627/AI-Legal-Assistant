@@ -1,0 +1,21 @@
+# Core web framework
+fastapi
+uvicorn
+
+# Configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# Machine learning / RAG
+sentence-transformers
+transformers
+torch
+faiss-cpu
+numpy
+
+# Google Gemini integration
+google-generativeai
+
+# Utilities
+requests
