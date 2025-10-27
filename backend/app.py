@@ -2,8 +2,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 from backend.rag_pipeline import RAGPipeline
-from config import settings
-from routes.chat import router as chat_router
+from backend.config import settings
+from backend.routes.chat import router as chat_router
 
 rag = RAGPipeline()
 
