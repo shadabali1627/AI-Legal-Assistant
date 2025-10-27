@@ -23,7 +23,7 @@ class RAGPipeline:
 
     def initialize(self):
         """Load data, create embeddings, and select generator backend."""
-        cases_path = os.path.join(settings.DATA_DIR, "cases.json")
+        cases_path = os.path.join(settings.DATA_DIR, "Cases.json")
         docs = load_cases_as_docs(cases_path)
 
         # 1) Chunk texts
