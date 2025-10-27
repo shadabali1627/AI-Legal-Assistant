@@ -1,7 +1,7 @@
 from typing import List, Dict, Any, Tuple
 import os
 from backend.utils.file_loader import load_cases_as_docs
-from utils.text_processing import chunk_texts
+from backend.utils.text_processing import chunk_texts
 from utils.embedding_utils import (
     EmbeddingBackend,
     get_embedder,
