@@ -8,7 +8,7 @@ from backend.utils.embedding_utils import (
     ensure_faiss_index,
     search_faiss,
 )
-from config import settings
+from backend.config import settings
 
 
 class RAGPipeline:
