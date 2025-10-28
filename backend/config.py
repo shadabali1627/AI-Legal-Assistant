@@ -28,7 +28,12 @@ class Settings(BaseSettings):
     HF_MODEL: str = "distilgpt2"
 
     # CORS
-    CORS_ALLOW_ORIGINS: list = ["http://localhost:5500", "http://127.0.0.1:5500", "http://localhost:3000", "*"]
+    CORS_ALLOW_ORIGINS = [
+    "http://localhost:5500",
+    "http://127.0.0.1:5500",
+    "http://localhost:3000",
+    "https://ai-legal-assistant-frontend-2ci1.onrender.com",  # ✅ your Render frontend
+]
 
     class Config:
         env_file = ".env"
