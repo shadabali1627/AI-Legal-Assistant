@@ -5,7 +5,8 @@ import Sources from "./Sources.jsx";
 const API_BASE =
   window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
     ? "http://127.0.0.1:8000/api"
-    : "/api";
+    : "https://ai-legal-assistant-aqt4.onrender.com/api";
+
 
 export default function App() {
   const [messages, setMessages] = useState([
