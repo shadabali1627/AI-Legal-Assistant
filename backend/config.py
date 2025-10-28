@@ -36,6 +36,7 @@ class Settings(BaseSettings):
         "http://127.0.0.1:5500",
         "http://localhost:3000",
         "https://ai-legal-assistant-frontend-2ci1.onrender.com",
+        "https://ai-legal-assistant-aqt4.onrender.com",            # ✅ your backend
     ]
 
     class Config:
