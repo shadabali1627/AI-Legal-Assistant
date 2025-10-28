@@ -1,8 +1,11 @@
 import os
+from typing import List
 from pydantic_settings import BaseSettings
 from pydantic import Field
 
+
 class Settings(BaseSettings):
+    # Base directories
     BASE_DIR: str = os.path.dirname(os.path.abspath(__file__))
     DATA_DIR: str = Field(default_factory=lambda: os.path.join(os.path.dirname(os.path.abspath(__file__)), "data"))
     VECTOR_DIR: str = Field(default_factory=lambda: os.path.join(os.path.dirname(os.path.abspath(__file__)), "vectorstore"))
@@ -28,14 +31,15 @@ class Settings(BaseSettings):
     HF_MODEL: str = "distilgpt2"
 
     # CORS
-    CORS_ALLOW_ORIGINS = [
-    "http://localhost:5500",
-    "http://127.0.0.1:5500",
-    "http://localhost:3000",
-    "https://ai-legal-assistant-frontend-2ci1.onrender.com",  # ✅ your Render frontend
-]
+    CORS_ALLOW_ORIGINS: List[str] = [
+        "http://localhost:5500",
+        "http://127.0.0.1:5500",
+        "http://localhost:3000",
+        "https://ai-legal-assistant-frontend-2ci1.onrender.com",
+    ]
 
     class Config:
         env_file = ".env"
+
 
 settings = Settings()
